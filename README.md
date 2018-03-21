@@ -1,6 +1,5 @@
 # android-data-storage-app
 
-currently working on it(not complete)-->implementaion of cursorloader to populate ui is left
 
 
 This is an app for a pet shelter house.A pet shelter house has to maintain a database of all the pets that are being brought under their care and those that are getting adopted.
